@@ -173,4 +173,5 @@ A função do controlador é distribuir a energia. [cite_start]Durante o dia, el
 
 ## Acesse nosso GitHub
 
-[cite_start]Para acompanhar atualizações sobre o projeto, acesse nosso GitHub: [https://github.com/SeuUsuario/SeuRepositorio](https://github.com/SeuUsuario/SeuRepositorio) [cite: 31]
+[cite_start]Para acompanhar atualizações sobre o projeto, acesse nosso GitHub: https://github.com/Kauanrlima/Tecnologias-Limpas [cite: 31]
+Além disso, segue o link do vídeo sobre o projeto: https://youtube.com/shorts/wCMHsDjR880?feature=share
